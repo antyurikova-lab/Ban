@@ -1,11 +1,4 @@
 {
-    "Pashka": {
-        "banned_by": "Rui",
-        "reason": "Причина не указана.",
-        "expires_at": "2025-10-17 16:42:10",
-        "created_at": "2025-10-10 16:42:10",
-        "ban_type": "partial"
-    },
     "123321": {
         "banned_by": "Rui",
         "reason": "Причина не указана.",
