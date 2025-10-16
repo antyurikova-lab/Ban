@@ -5,5 +5,12 @@
         "expires_at": null,
         "created_at": "2025-10-15 13:45:30",
         "ban_type": "full"
+    },
+    "Pashka": {
+        "banned_by": "Rui",
+        "reason": "Причина не указана.",
+        "expires_at": null,
+        "created_at": "2025-10-16 16:33:33",
+        "ban_type": "partial"
     }
 }
