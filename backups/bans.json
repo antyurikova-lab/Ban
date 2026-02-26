@@ -7,5 +7,14 @@
         "ban_type": "full",
         "block_support": true,
         "restrict_admin_panel": true
+    },
+    "Pashka": {
+        "banned_by": "Rui",
+        "reason": "Причина не указана.",
+        "expires_at": "2026-03-05 18:48:26",
+        "created_at": "2026-02-26 18:48:26",
+        "ban_type": "partial",
+        "block_support": true,
+        "restrict_admin_panel": false
     }
 }
