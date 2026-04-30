@@ -12,8 +12,8 @@
         "banned_by": "Rui",
         "reason": "Причина не указана.",
         "expires_at": null,
-        "created_at": "2026-04-27 16:26:46",
-        "ban_type": "partial",
+        "created_at": "2026-04-30 16:03:12",
+        "ban_type": "full",
         "block_support": true,
         "restrict_admin_panel": true
     }
